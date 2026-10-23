@@ -1,0 +1,10 @@
+{
+  "companies": [
+    "leverdemo",
+    "plaid"
+  ],
+  "maxItems": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
